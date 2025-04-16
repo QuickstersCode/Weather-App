@@ -8,8 +8,8 @@ A sleek and simple weather app built with Flutter. Get real-time weather updates
 - Detailed weather information
 
 ## Screenshots
+![iOS (1)](https://github.com/user-attachments/assets/bffb5ea2-5715-49c5-acec-49a53c10942c)
 
- <img src"=https://github.com/user-attachments/assets/d87bd7bf-7d60-4243-b77d-f3c4cb76f2f0" width="200" />
 
 
 ## Getting Started
