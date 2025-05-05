@@ -8,7 +8,7 @@ class NeumorphicSearchField extends StatelessWidget {
     final size = MediaQuery.of(context).size;
 
     return Container(
-      height: size.height * 0.06, // Slightly taller for better padding
+      height: size.height * 0.06, 
       width: double.infinity,
       padding: const EdgeInsets.symmetric(horizontal: 12),
       decoration: BoxDecoration(
